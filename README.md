@@ -2,7 +2,7 @@
 
 **Project Overview:** The Vrinda Store Data Analysis project involved the analysis of sales data from Vrinda, an online retail store that sells products through various e-commerce platforms, including Amazon and Flipkart. The objective was to extract actionable insights from the data to optimize sales strategies and improve overall performance by creating an annual sales report for 2022. So that, Vrinda stores can understand their customers and grow more sales in 2023
 
-Key components of the project included:
+Key components of the project includes:
 
  - **Data Cleaning and Preparation**: Conducted data cleaning to address issues such as missing values and data inconsistencies, ensuring data accuracy and reliability for analysis.
  - **Data Processing**: As part of data processing 
